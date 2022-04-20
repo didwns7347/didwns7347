@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbhongg&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+NOTION : https://balsam-clover-9ca.notion.site/iOS-870df8bf1f0e4a4f9f3f87ac448eff75
