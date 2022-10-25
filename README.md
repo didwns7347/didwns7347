@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=didwns7347)](https://github.com/anuraghazra/github-readme-stats)  
 NOTION : https://balsam-clover-9ca.notion.site/iOS-870df8bf1f0e4a4f9f3f87ac448eff75
 
-##백준 
+## 백준티어  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=didwns7347)](https://solved.ac/didwns7347)
