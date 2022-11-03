@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 NOTION : https://balsam-clover-9ca.notion.site/iOS-870df8bf1f0e4a4f9f3f87ac448eff75
 
 ## 백준티어  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=didwns7347)](https://solved.ac/didwns7347)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=didwns7347)](https://solved.ac/didwns7347)
