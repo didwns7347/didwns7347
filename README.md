@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=didwns7347)](https://github.com/anuraghazra/github-readme-stats)  
 ## 개발 정리노션
 NOTION : https://balsam-clover-9ca.notion.site/iOS-870df8bf1f0e4a4f9f3f87ac448eff75
-## 이력서
+## 프로필
 NOTION : https://balsam-clover-9ca.notion.site/f6ea9009703d41bcb806bf258e9568e8
 
 ## 백준티어  
